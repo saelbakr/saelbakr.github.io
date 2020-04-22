@@ -1,0 +1,38 @@
+.box {
+    min-height: 20px;
+    padding: 50px;
+    margin: 20px;
+    font-weight: 600;
+    color: rgb(238, 168, 141);
+  }
+  
+  .fluid {
+    width: 300px;
+    height: 200px;
+  }
+  
+ .nav  a{
+
+    font-size: 20px;
+ }
+  h1{
+      color: maroon;
+      margin-left: 30px;
+      margin-top: 80px;
+      padding: 20px;
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .word{
+        margin-left: 200px;
+        margin-top: 90px;
+
+  }
+  .title{
+    font-size: 15px;
+    color: maroon;
+    margin-left: 140px;
+    margin-top: 80px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  body {background-color:grey;}
